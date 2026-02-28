@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "Tip Toe",
+  "base_artist": "HYBS",
+  "createdAt": "2026-02-28T11:19:49.703954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Ani DiFranco",
+      "has_synced": false,
+      "path": "select/01_Tip_Toe_Ani_DiFranco.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "artist": "Roddy Ricch feat. A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/02_Tip_Toe_(feat._A_Boogie_Wit_da_Hoodie)_Roddy_Ricch_feat._A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tip Toe (feat. A Boogie wit da Hoodie)",
+      "artist": "Roddy Ricch",
+      "has_synced": true,
+      "path": "select/03_Tip_Toe_(feat._A_Boogie_wit_da_Hoodie)_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tip Toe Wing In My Jawwdinz",
+      "artist": "Riff Raff",
+      "has_synced": true,
+      "path": "select/04_Tip_Toe_Wing_In_My_Jawwdinz_Riff_Raff.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Monrose",
+      "has_synced": false,
+      "path": "select/05_Tip_Toe_Monrose.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Sara Niemietz",
+      "has_synced": true,
+      "path": "select/06_Tip_Toe_Sara_Niemietz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Jason Derulo feat. French Montana",
+      "has_synced": true,
+      "path": "select/07_Tip_Toe_Jason_Derulo_feat._French_Montana.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tip Toe (feat. French Montana)",
+      "artist": "Jason DeRulo",
+      "has_synced": true,
+      "path": "select/08_Tip_Toe_(feat._French_Montana)_Jason_DeRulo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "PatrickReza",
+      "has_synced": true,
+      "path": "select/09_Tip_Toe_PatrickReza.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tip Toe Thru' The Tulips With Me",
+      "artist": "Tiny Tim",
+      "has_synced": true,
+      "path": "select/10_Tip_Toe_Thru'_The_Tulips_With_Me_Tiny_Tim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tip-Toe Thru the Tulips With Me",
+      "artist": "Tiny Tim",
+      "has_synced": true,
+      "path": "select/11_Tip-Toe_Thru_the_Tulips_With_Me_Tiny_Tim.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Freddie Dredd",
+      "has_synced": true,
+      "path": "select/12_Tip_Toe_Freddie_Dredd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tip Toe (feat. French Montana)",
+      "artist": "Jason Derulo, French Montana",
+      "has_synced": true,
+      "path": "select/13_Tip_Toe_(feat._French_Montana)_Jason_Derulo,_French_Montana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "artist": "Roddy Ricch feat. A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/14_Tip_Toe_(feat._A_Boogie_Wit_da_Hoodie)_Roddy_Ricch_feat._A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "artist": "Roddy Ricch, A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/15_Tip_Toe_(feat._A_Boogie_Wit_da_Hoodie)_Roddy_Ricch,_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Marlango",
+      "has_synced": false,
+      "path": "select/16_Tip_Toe_Marlango.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Trophy Eyes",
+      "has_synced": true,
+      "path": "select/17_Tip_Toe_Trophy_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Yung Nugget feat. Alex Parsa",
+      "has_synced": false,
+      "path": "select/18_Tip_Toe_Yung_Nugget_feat._Alex_Parsa.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tip Toe",
+      "artist": "Yung Nugget",
+      "has_synced": false,
+      "path": "select/19_Tip_Toe_Yung_Nugget.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Tip It On Back",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/20_Tip_It_On_Back_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Tip of My Tongue",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/21_Tip_of_My_Tongue_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Tip of My Tongue",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/22_Tip_of_My_Tongue_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Tip the Scale",
+      "artist": "The Roots feat. Dice Raw",
+      "has_synced": true,
+      "path": "select/23_Tip_the_Scale_The_Roots_feat._Dice_Raw.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Tip The Scale (Feat. Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/24_Tip_The_Scale_(Feat._Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+      "artist": "Eminem feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun",
+      "has_synced": true,
+      "path": "select/25_Yah_Yah_(feat._Royce_Da_5'9_,_Black_Thought,_Q-Tip_&_Denaun)_Eminem_feat._Royce_Da_5'9_,_Black_Thought,_Q-Tip_&_Denaun.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/26_Yah_Yah_(feat._Royce_Da_5'9_,_Black_Thought,_Q-Tip_&_Denaun)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Felt Tip",
+      "artist": "Love Is All",
+      "has_synced": false,
+      "path": "select/27_Felt_Tip_Love_Is_All.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Tip Top (feat. Guap Tarantino & MSA PG)",
+      "artist": "Lil Keed feat. Guap Tarantino & MSA PG",
+      "has_synced": true,
+      "path": "select/28_Tip_Top_(feat._Guap_Tarantino_&_MSA_PG)_Lil_Keed_feat._Guap_Tarantino_&_MSA_PG.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Tip Top (feat. Guap Tarantino & PG Casper)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/29_Tip_Top_(feat._Guap_Tarantino_&_PG_Casper)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (Featuring Q-Tip, MNDR)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/30_Bang_Bang_Bang_(Featuring_Q-Tip,_MNDR)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Tip Of Your Tongue - Edited",
+      "artist": "Cutting Crew",
+      "has_synced": false,
+      "path": "select/31_Tip_Of_Your_Tongue_-_Edited_Cutting_Crew.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Tip Of Your Tongue (Edited)",
+      "artist": "Cutting Crew",
+      "has_synced": false,
+      "path": "select/32_Tip_Of_Your_Tongue_(Edited)_Cutting_Crew.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "An Attempt to Tip the Scales",
+      "artist": "Bright Eyes",
+      "has_synced": false,
+      "path": "select/33_An_Attempt_to_Tip_the_Scales_Bright_Eyes.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Get You Some (feat. Q-Tip & Marsha from Floetry)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/34_Get_You_Some_(feat._Q-Tip_&_Marsha_from_Floetry)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Hope You're Happy feat. Billy Danze, Nicole Wray, Q-Tip",
+      "artist": "BlakRoc",
+      "has_synced": false,
+      "path": "select/35_Hope_You're_Happy_feat._Billy_Danze,_Nicole_Wray,_Q-Tip_BlakRoc.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Hope You're Happy (Feat. Q-Tip, Billy Danze, and Nicole Wray)",
+      "artist": "Blakroc",
+      "has_synced": false,
+      "path": "select/36_Hope_You're_Happy_(Feat._Q-Tip,_Billy_Danze,_and_Nicole_Wray)_Blakroc.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tip Toe",
+      "artist": "HYBS",
+      "has_synced": false,
+      "path": "select/pl_01_Tip_Toe_HYBS.txt"
+    }
+  ]
+}
